@@ -1,0 +1,7 @@
+1. index.html - Replaced div with header
+2. index.html - Replaced div with footer
+3. index.html - Replaced div with sections
+4. css - consolidated repeated/duplicate css elements
+5. changed title 'website' to 'Horiseon'
+6. added id="search-engine-optimization' to get click working
+7. replaced classes 'header' and 'footer' with semantics header and footer
